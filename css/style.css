@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|News+Cycle&display=swap');
+
+body {
+	background-color: #FFC0CB;
+	font-family: 'News Cycle', sans-serif;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 35px;
+	color: #5F9EA0;
+}
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 5px;
+}
